@@ -1,0 +1,14 @@
+{
+  "name": "marsbot",
+  "version": "1.0.0",
+  "description": "",
+   "main" :   "app.js" ,     
+ "scripts" :   
+{          
+"start" :   "node app.js"   
+// tells the web service where the start script is    
+ },
+  "author": "",
+  "license": "ISC"
+}
+
